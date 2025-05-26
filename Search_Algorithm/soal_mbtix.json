@@ -1,0 +1,364 @@
+[{
+        "dimensi": "Energi",
+        "kode": "E/I",
+        "pertanyaan": "Ketika bertemu banyak orang baru, kamu merasa...",
+        "opsi": {
+            "A": { "jawaban": "Bersemangat dan antusias", "nilai": "E" },
+            "B": { "jawaban": "Canggung dan butuh waktu sendiri", "nilai": "I" }
+        }
+    },
+    {
+        "dimensi": "Energi",
+        "kode": "E/I",
+        "pertanyaan": "Kamu lebih suka berbicara di depan umum dibanding menulis ide.",
+        "opsi": {
+            "A": { "jawaban": "Benar", "nilai": "E" },
+            "B": { "jawaban": "Tidak benar", "nilai": "I" }
+        }
+    },
+    {
+        "dimensi": "Energi",
+        "kode": "E/I",
+        "pertanyaan": "Di lingkungan sosial, kamu cenderung...",
+        "opsi": {
+            "A": { "jawaban": "Menginisiasi percakapan", "nilai": "E" },
+            "B": { "jawaban": "Menunggu orang lain bicara dulu", "nilai": "I" }
+        }
+    },
+    {
+        "dimensi": "Energi",
+        "kode": "E/I",
+        "pertanyaan": "Energi kamu meningkat ketika...",
+        "opsi": {
+            "A": { "jawaban": "Berkumpul dengan orang banyak", "nilai": "E" },
+            "B": { "jawaban": "Sendiri dan tenang", "nilai": "I" }
+        }
+    },
+    {
+        "dimensi": "Energi",
+        "kode": "E/I",
+        "pertanyaan": "Saat menghadiri pesta, kamu merasa...",
+        "opsi": {
+            "A": { "jawaban": "Hidup dan penuh semangat", "nilai": "E" },
+            "B": { "jawaban": "Cepat lelah dan ingin segera pulang", "nilai": "I" }
+        }
+    },
+    {
+        "dimensi": "Energi",
+        "kode": "E/I",
+        "pertanyaan": "Kamu lebih suka aktivitas yang melibatkan...",
+        "opsi": {
+            "A": { "jawaban": "Banyak orang", "nilai": "E" },
+            "B": { "jawaban": "Sedikit orang", "nilai": "I" }
+        }
+    },
+    {
+        "dimensi": "Energi",
+        "kode": "E/I",
+        "pertanyaan": "Kamu merasa nyaman dengan...",
+        "opsi": {
+            "A": { "jawaban": "Berbagi cerita secara spontan", "nilai": "E" },
+            "B": { "jawaban": "Berpikir terlebih dahulu sebelum berbicara", "nilai": "I" }
+        }
+    },
+    {
+        "dimensi": "Energi",
+        "kode": "E/I",
+        "pertanyaan": "Dalam kelompok, kamu biasanya...",
+        "opsi": {
+            "A": { "jawaban": "Menjadi pusat perhatian", "nilai": "E" },
+            "B": { "jawaban": "Lebih suka mengamati", "nilai": "I" }
+        }
+    },
+    {
+        "dimensi": "Energi",
+        "kode": "E/I",
+        "pertanyaan": "Untuk mengisi ulang energi, kamu lebih memilih...",
+        "opsi": {
+            "A": { "jawaban": "Bertemu teman", "nilai": "E" },
+            "B": { "jawaban": "Waktu sendiri", "nilai": "I" }
+        }
+    },
+    {
+        "dimensi": "Energi",
+        "kode": "E/I",
+        "pertanyaan": "Ketika diam terlalu lama, kamu merasa...",
+        "opsi": {
+            "A": { "jawaban": "Tidak nyaman", "nilai": "E" },
+            "B": { "jawaban": "Nyaman", "nilai": "I" }
+        }
+    },
+
+    {
+        "dimensi": "Informasi",
+        "kode": "S/N",
+        "pertanyaan": "Kamu lebih suka informasi yang...",
+        "opsi": {
+            "A": { "jawaban": "Jelas, detail, dan konkret", "nilai": "S" },
+            "B": { "jawaban": "Abstrak dan penuh makna", "nilai": "N" }
+        }
+    },
+    {
+        "dimensi": "Informasi",
+        "kode": "S/N",
+        "pertanyaan": "Dalam menyelesaikan masalah, kamu lebih suka...",
+        "opsi": {
+            "A": { "jawaban": "Mengikuti cara yang sudah ada", "nilai": "S" },
+            "B": { "jawaban": "Mencari pendekatan baru", "nilai": "N" }
+        }
+    },
+    {
+        "dimensi": "Informasi",
+        "kode": "S/N",
+        "pertanyaan": "Kamu lebih memperhatikan...",
+        "opsi": {
+            "A": { "jawaban": "Fakta dan realita", "nilai": "S" },
+            "B": { "jawaban": "Pola dan kemungkinan yang tersembunyi", "nilai": "N" }
+        }
+    },
+    {
+        "dimensi": "Informasi",
+        "kode": "S/N",
+        "pertanyaan": "Saat belajar, kamu lebih nyaman dengan...",
+        "opsi": {
+            "A": { "jawaban": "Langkah-langkah yang jelas", "nilai": "S" },
+            "B": { "jawaban": "Gambaran besar dan konsep", "nilai": "N" }
+        }
+    },
+    {
+        "dimensi": "Informasi",
+        "kode": "S/N",
+        "pertanyaan": "Kamu cenderung mempercayai...",
+        "opsi": {
+            "A": { "jawaban": "Pengalaman langsung", "nilai": "S" },
+            "B": { "jawaban": "Intuisi dan ide baru", "nilai": "N" }
+        }
+    },
+    {
+        "dimensi": "Informasi",
+        "kode": "S/N",
+        "pertanyaan": "Dalam merencanakan sesuatu, kamu...",
+        "opsi": {
+            "A": { "jawaban": "Mengandalkan data", "nilai": "S" },
+            "B": { "jawaban": "Mengandalkan insting", "nilai": "N" }
+        }
+    },
+    {
+        "dimensi": "Informasi",
+        "kode": "S/N",
+        "pertanyaan": "Saat mengingat sesuatu, kamu fokus pada...",
+        "opsi": {
+            "A": { "jawaban": "Detail spesifik", "nilai": "S" },
+            "B": { "jawaban": "Gambaran umum", "nilai": "N" }
+        }
+    },
+    {
+        "dimensi": "Informasi",
+        "kode": "S/N",
+        "pertanyaan": "Kamu lebih suka membaca buku yang...",
+        "opsi": {
+            "A": { "jawaban": "Berdasarkan fakta", "nilai": "S" },
+            "B": { "jawaban": "Bersifat fantasi atau fiksi ilmiah", "nilai": "N" }
+        }
+    },
+    {
+        "dimensi": "Informasi",
+        "kode": "S/N",
+        "pertanyaan": "Kamu merasa nyaman dengan...",
+        "opsi": {
+            "A": { "jawaban": "Rutinitas yang dapat diprediksi", "nilai": "S" },
+            "B": { "jawaban": "Perubahan dan eksplorasi", "nilai": "N" }
+        }
+    },
+    {
+        "dimensi": "Informasi",
+        "kode": "S/N",
+        "pertanyaan": "Kamu lebih menghargai...",
+        "opsi": {
+            "A": { "jawaban": "Ketepatan dan kejelasan", "nilai": "S" },
+            "B": { "jawaban": "Inovasi dan kemungkinan", "nilai": "N" }
+        }
+    },
+
+    {
+        "dimensi": "Keputusan",
+        "kode": "T/F",
+        "pertanyaan": "Dalam mengambil keputusan, kamu cenderung...",
+        "opsi": {
+            "A": { "jawaban": "Mengandalkan logika dan analisis", "nilai": "T" },
+            "B": { "jawaban": "Mempertimbangkan perasaan orang lain", "nilai": "F" }
+        }
+    },
+    {
+        "dimensi": "Keputusan",
+        "kode": "T/F",
+        "pertanyaan": "Saat menghadapi konflik, kamu lebih fokus pada...",
+        "opsi": {
+            "A": { "jawaban": "Menyelesaikan masalah secara objektif", "nilai": "T" },
+            "B": { "jawaban": "Menjaga hubungan baik antar pihak", "nilai": "F" }
+        }
+    },
+    {
+        "dimensi": "Keputusan",
+        "kode": "T/F",
+        "pertanyaan": "Kamu lebih nyaman jika dipandang sebagai orang yang...",
+        "opsi": {
+            "A": { "jawaban": "Adil dan masuk akal", "nilai": "T" },
+            "B": { "jawaban": "Peduli dan penuh empati", "nilai": "F" }
+        }
+    },
+    {
+        "dimensi": "Keputusan",
+        "kode": "T/F",
+        "pertanyaan": "Saat berdiskusi, kamu lebih suka...",
+        "opsi": {
+            "A": { "jawaban": "Fakta dan argumen logis", "nilai": "T" },
+            "B": { "jawaban": "Empati dan pengertian", "nilai": "F" }
+        }
+    },
+    {
+        "dimensi": "Keputusan",
+        "kode": "T/F",
+        "pertanyaan": "Keputusan yang baik adalah yang...",
+        "opsi": {
+            "A": { "jawaban": "Paling rasional", "nilai": "T" },
+            "B": { "jawaban": "Paling memperhatikan perasaan semua pihak", "nilai": "F" }
+        }
+    },
+    {
+        "dimensi": "Keputusan",
+        "kode": "T/F",
+        "pertanyaan": "Kamu merasa penting untuk...",
+        "opsi": {
+            "A": { "jawaban": "Bersikap objektif", "nilai": "T" },
+            "B": { "jawaban": "Menjaga harmoni sosial", "nilai": "F" }
+        }
+    },
+    {
+        "dimensi": "Keputusan",
+        "kode": "T/F",
+        "pertanyaan": "Ketika menilai seseorang, kamu cenderung...",
+        "opsi": {
+            "A": { "jawaban": "Fokus pada prinsip", "nilai": "T" },
+            "B": { "jawaban": "Fokus pada situasi dan hubungan", "nilai": "F" }
+        }
+    },
+    {
+        "dimensi": "Keputusan",
+        "kode": "T/F",
+        "pertanyaan": "Kamu lebih suka bekerja dengan orang yang...",
+        "opsi": {
+            "A": { "jawaban": "Tegas dan efisien", "nilai": "T" },
+            "B": { "jawaban": "Hangat dan mendukung", "nilai": "F" }
+        }
+    },
+    {
+        "dimensi": "Keputusan",
+        "kode": "T/F",
+        "pertanyaan": "Kamu lebih memilih...",
+        "opsi": {
+            "A": { "jawaban": "Kebenaran", "nilai": "T" },
+            "B": { "jawaban": "Kebaikan", "nilai": "F" }
+        }
+    },
+    {
+        "dimensi": "Keputusan",
+        "kode": "T/F",
+        "pertanyaan": "Dalam menilai keberhasilan, kamu lebih fokus pada...",
+        "opsi": {
+            "A": { "jawaban": "Hasil yang dicapai", "nilai": "T" },
+            "B": { "jawaban": "Dampak terhadap orang lain", "nilai": "F" }
+        }
+    },
+    {
+        "dimensi": "Gaya Hidup",
+        "kode": "J/P",
+        "pertanyaan": "Kamu lebih nyaman ketika pekerjaan...",
+        "opsi": {
+            "A": { "jawaban": "Direncanakan dengan rapi dan teratur", "nilai": "J" },
+            "B": { "jawaban": "Fleksibel dan spontan", "nilai": "P" }
+        }
+    },
+    {
+        "dimensi": "Gaya Hidup",
+        "kode": "J/P",
+        "pertanyaan": "Dalam menyelesaikan tugas, kamu lebih sering...",
+        "opsi": {
+            "A": { "jawaban": "Menyelesaikan jauh sebelum tenggat", "nilai": "J" },
+            "B": { "jawaban": "Menyelesaikan mendekati tenggat waktu", "nilai": "P" }
+        }
+    },
+    {
+        "dimensi": "Gaya Hidup",
+        "kode": "J/P",
+        "pertanyaan": "Kamu lebih suka aktivitas yang...",
+        "opsi": {
+            "A": { "jawaban": "Terstruktur dan bisa diprediksi", "nilai": "J" },
+            "B": { "jawaban": "Dinamis dan bisa berubah sewaktu-waktu", "nilai": "P" }
+        }
+    },
+    {
+        "dimensi": "Gaya Hidup",
+        "kode": "J/P",
+        "pertanyaan": "Saat menghadapi tugas besar, kamu...",
+        "opsi": {
+            "A": { "jawaban": "Langsung menyusun rencana", "nilai": "J" },
+            "B": { "jawaban": "Menyesuaikan saat berjalan", "nilai": "P" }
+        }
+    },
+    {
+        "dimensi": "Gaya Hidup",
+        "kode": "J/P",
+        "pertanyaan": "Kamu lebih suka membuat keputusan...",
+        "opsi": {
+            "A": { "jawaban": "Dengan cepat", "nilai": "J" },
+            "B": { "jawaban": "Setelah banyak pertimbangan", "nilai": "P" }
+        }
+    },
+    {
+        "dimensi": "Gaya Hidup",
+        "kode": "J/P",
+        "pertanyaan": "Kamu merasa terganggu jika...",
+        "opsi": {
+            "A": { "jawaban": "Tidak ada rencana jelas", "nilai": "J" },
+            "B": { "jawaban": "Ada rencana terlalu kaku", "nilai": "P" }
+        }
+    },
+    {
+        "dimensi": "Gaya Hidup",
+        "kode": "J/P",
+        "pertanyaan": "Dalam kegiatan sehari-hari, kamu lebih suka...",
+        "opsi": {
+            "A": { "jawaban": "Mengikuti jadwal", "nilai": "J" },
+            "B": { "jawaban": "Mengikuti suasana hati", "nilai": "P" }
+        }
+    },
+    {
+        "dimensi": "Gaya Hidup",
+        "kode": "J/P",
+        "pertanyaan": "Kamu cenderung menyukai...",
+        "opsi": {
+            "A": { "jawaban": "Hal yang pasti dan terorganisir", "nilai": "J" },
+            "B": { "jawaban": "Petualangan dan kejutan", "nilai": "P" }
+        }
+    },
+    {
+        "dimensi": "Gaya Hidup",
+        "kode": "J/P",
+        "pertanyaan": "Saat bekerja dalam tim, kamu lebih suka...",
+        "opsi": {
+            "A": { "jawaban": "Tugas dibagi sejak awal", "nilai": "J" },
+            "B": { "jawaban": "Tugas berkembang sesuai proses", "nilai": "P" }
+        }
+    },
+    {
+        "dimensi": "Gaya Hidup",
+        "kode": "J/P",
+        "pertanyaan": "Kamu merasa puas ketika...",
+        "opsi": {
+            "A": { "jawaban": "Semua selesai sesuai rencana", "nilai": "J" },
+            "B": { "jawaban": "Bisa beradaptasi dengan perubahan", "nilai": "P" }
+        }
+    }
+
+]
